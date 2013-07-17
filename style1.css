@@ -1,0 +1,47 @@
+//body
+{
+	background-image:url(http://static.tumblr.com/sixytty/HJYm900wt/game_of_thrones_house_stark_sigil_render_by_titch_ix-d50m12c.png);
+	background-size:100%;
+	background-repeat:no-repeat;
+}
+
+#header
+{
+	background-color:#888888;
+	width:100%;
+	min-height:100px;
+}
+
+#left_column
+{
+	background-color:#aaaaaa;
+	width:20%;
+	min-height:800px;
+	float:left;
+}
+
+#main_content
+{
+	background-color:white;
+	background-image:url();
+	background-size:1200px 800px;
+	width:80%;
+	min-height:800px;
+	background-repeat:no-repeat;
+	float:left;
+	font-size:24
+}
+
+#footer
+{
+	background-color:#808080;
+	width:100%;
+	min-height:100px;
+	float:left;
+	clear:both;
+}
+
+h2
+{
+	color:#000000;
+}

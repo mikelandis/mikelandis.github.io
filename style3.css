@@ -1,0 +1,48 @@
+#header
+{
+	background-color:#888888;
+	width:100%;
+	min-height:100px;
+}
+
+#left_column
+{
+	background-color:#aaaaaa;
+	width:20%;
+	min-height:800px;
+	float:left;
+}
+
+#main_content
+{
+	background-color:white;
+	width:80%;
+	min-height:800px;
+	background-repeat:no-repeat;
+	float:left;
+	font-size:24px;
+}
+
+#footer
+{
+	background-color:#808080;
+	width:100%;
+	min-height:100px;
+	float:left;
+	clear:both;
+}
+
+h2
+{
+	color:#000000;
+}
+
+form
+{
+	font-size:16px;
+}
+
+h10
+{
+	font-size:20px;
+}

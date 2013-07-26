@@ -22,9 +22,9 @@
 
 #main_content
 {
-	background-color:black;
+	background-color:white;
 	background-image:url(http://t0.gstatic.com/images?q=tbn:ANd9GcRcsn-rh4w0dQlCjcs3Oh-q2hW65FjpDBalZq0dQqq_S9eyA08F);
-	background-size:1200px 800px;
+	background-size:100%;
 	width:80%;
 	min-height:800px;
 	background-repeat:no-repeat;
